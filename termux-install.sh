@@ -76,3 +76,4 @@ echo "============================"
 echo "Great! Dragon-Userbot installed successfully!"
 echo "Start with: \"python3 main.py\""
 echo "============================"
+exit 4
